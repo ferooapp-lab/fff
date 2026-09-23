@@ -1,0 +1,6 @@
+{
+  "name": "Canlı TV",
+  "description": "Canlı TV yayını, admin paneli, favori kanallar, anlık bildirim sistemi, kategori filtreleme, izleme geçmişi ve uçtan uca şifrelemeli önbellekleme desteği sunan gelişmiş canlı televizyon uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
